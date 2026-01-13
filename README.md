@@ -1,4 +1,4 @@
-# Hi, I'm Rayan 👋
+# Hi, I'm Rayan Mohammed
 
 Software Engineering student focused on building full-stack mobile and backend systems.
 
