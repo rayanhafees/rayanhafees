@@ -3,7 +3,7 @@
 Computer Science graduate building data pipelines, backend systems, and automation workflows that turn messy data into decisions.
 
 ## Current Focus
-- Data analysis, EDA, and predictive modeling
+- Data analysis, EDA, and predictive modeling.
 - SQL query optimization and backend API development
 - Workflow automation and ETL pipeline design
 - Cloud fundamentals and scalable system architecture
