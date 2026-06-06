@@ -72,8 +72,8 @@ Docker • Docker Compose • Git • GitHub • AWS • n8n
 
  Email: [rayanhafees@gmail.com](mailto:rayanhafees@gmail.com)
 
- LinkedIn: linkedin.com/in/rayan-mohammed-265690191
+ LinkedIn: https://linkedin.com/in/rayan-mohammed-265690191
 
  Portfolio: https://rayanhafees.github.io/portfolio/
 
- GitHub: github.com/rayanhafees
+ GitHub: https://github.com/rayanhafees
