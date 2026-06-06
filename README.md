@@ -1,4 +1,4 @@
-# Hi, I'm Rayan Mohammed 👋
+# Hi, I'm Rayan Mohammed 
 
 Computer Science graduate focused on Data Analytics, Backend Engineering, and Workflow Automation.
 
@@ -14,31 +14,31 @@ I enjoy building systems that transform raw data into actionable insights throug
 
 ## Featured Projects
 
-### 📱 VSync – Smart College Companion Platform
+###  VSync – Smart College Companion Platform
 
 Live Android application available on the Google Play Store.
 
 Built with Flutter and REST APIs to manage academic records, attendance, timetables, faculty information, and GPA prediction.
 
-### 🤖 Clara AI Automation Pipeline
+###  Clara AI Automation Pipeline
 
 Automated data-processing workflow that transforms unstructured call transcripts into structured JSON outputs.
 
 **Tech:** Python, n8n, Docker, Docker Compose
 
-### ⚙️ Task Scheduling Optimization in Distributed Systems
+###  Task Scheduling Optimization in Distributed Systems
 
 Comparative analysis of multi-objective optimization algorithms using real Alibaba cluster datasets.
 
 Focused on processor utilization, scheduling efficiency, and energy-performance trade-offs.
 
-### 📊 Student Stress Prediction System
+###  Student Stress Prediction System
 
 Machine learning project that predicts student stress levels during examinations using behavioral and lifestyle datasets.
 
 Includes EDA, feature engineering, model training, and performance evaluation.
 
-### 🌏 VayoAura – B2B Travel Platform
+###  VayoAura – B2B Travel Platform
 
 Travel operations platform supporting business workflows and client management.
 
@@ -70,10 +70,10 @@ Docker • Docker Compose • Git • GitHub • AWS • n8n
 
 ## Connect With Me
 
-📧 Email: [rayanhafees@gmail.com](mailto:rayanhafees@gmail.com)
+ Email: [rayanhafees@gmail.com](mailto:rayanhafees@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/rayan-mohammed-265690191
+ LinkedIn: linkedin.com/in/rayan-mohammed-265690191
 
-🌐 Portfolio: https://rayanhafees.github.io/portfolio/
+ Portfolio: https://rayanhafees.github.io/portfolio/
 
-🐙 GitHub: github.com/rayanhafees
+ GitHub: github.com/rayanhafees
