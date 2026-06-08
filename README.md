@@ -66,7 +66,7 @@ Docker • Docker Compose • Git • GitHub • AWS • n8n
 
 * Software Development Intern — CVS Info Solutions
 * Co-Founder — MicroIT
-* Business Development Intern — AIESEC in Amaravati
+* Business Development Associate — AIESEC in Amaravati
 
 ## Connect With Me
 
